@@ -1,7 +1,7 @@
 # DotNetOnPCF
 ## Awareness Level Material
 
-Start with the Pivotal PCF for Windows and .Net Web Site
+Start with the Pivotal PCF for Windows and .Net Web Site.  New material is added frequently.
 https://pivotal.io/partners/microsoft/pcf-for-windows-and-net
 
 Some highly recommended material to help get started includes:
