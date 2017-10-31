@@ -38,7 +38,7 @@ Project Steeltoe.io website - Open source libraries that enable .NET Core and .N
 https://steeltoe.io/
 Joint the converstion on slack at: https://slack.steeltoe.io/
 
-## Code Resourses
+## Code Resources
 Getting Started with .NET Core — A guide on setting up the .NET Core development environment and creating your first "Hello World" app. https://www.microsoft.com/net/learn/get-started/macos
 
 Jetbrains Rider — An excellent cross-platform .NET IDE from the makers of IntelliJ. https://www.jetbrains.com/rider/
