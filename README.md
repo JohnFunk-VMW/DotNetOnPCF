@@ -30,7 +30,8 @@ http://www.appcontinuum.net/
 https://github.com/barinek/appcontinuum_dotnet
 
 Project Steeltoe.io website
-www.steeltoe.io
+https://steeltoe.io/
+
 
 ## Code Resourses
 Demo Code:
