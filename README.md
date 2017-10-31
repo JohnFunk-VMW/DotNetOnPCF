@@ -49,7 +49,7 @@ https://github.com/jennymclaughlin/dotnetcoreCFdemo
 .Net Core Samples for PCF
 https://github.com/dawu415/cf-dotnetcore-samples
 
-Pipeline:
+Concourse Pipeline for deploying .Net apps to PCF:
 https://github.com/DaxterM/StemcellCI
 
 .Net Code Scanner:
