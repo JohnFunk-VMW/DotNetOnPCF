@@ -1,4 +1,4 @@
-# John's .Net On PCF Playlist
+# John's .Net on PCF Playlist
 ## Awareness Level Material
 
 Start with the Pivotal PCF for Windows and .Net Web Site.  New material is added frequently.
