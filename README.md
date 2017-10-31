@@ -31,7 +31,7 @@ https://github.com/barinek/appcontinuum_dotnet
 
 Project Steeltoe.io website
 https://steeltoe.io/
-
+Joint the converstion on slack at: https://slack.steeltoe.io/
 
 ## Code Resourses
 Demo Code:
